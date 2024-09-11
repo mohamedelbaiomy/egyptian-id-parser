@@ -13,3 +13,9 @@
 - ## Second version.
 
 - **Update readme**
+
+## 1.0.2
+
+- ## Third version.
+
+- **Update changelog**
