@@ -17,7 +17,7 @@ The **Egyptian ID Parser** is a Dart package designed to extract personal inform
 dependencies:
   egyptian_id_parser: ^1.0.0
 ```
-2) Use the class `EgyptianIdParserBase` to access to all static functions :
+2) use the class `EgyptianIdParserBase` to access to all static built in functions :
 
 ``` 
 
@@ -38,3 +38,12 @@ void main() {
   print('Age: $years years, $months months, $days days');
 }
 ```
+
+## 🔗 Mohamed Elbaiomy
+
+
+* [![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge%22%20height=%2235%22%20alt=%22linkedin%20logo%22)](https://www.linkedin.com/in/mohamed-elbaiomy262003/)
+* [![youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge%22height=%2235%22alt=%22youtube%20logo%22)](https://www.youtube.com/@mohamedelbaiomy262)
+* [![facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge%22%20height=%2235%22%20alt=%22facebook%20logo%22)](https://www.facebook.com/Original262003)
+
+***
