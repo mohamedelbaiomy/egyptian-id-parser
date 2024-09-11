@@ -19,3 +19,9 @@
 - ## Third version.
 
 - **Update changelog**
+
+## 1.0.3
+
+- ## Fourth version.
+
+- **Handle Errors**
