@@ -5,10 +5,10 @@ class EgyptianIdParserBase {
       String month = id.substring(3, 5); // شهرين
       String day = id.substring(5, 7); // يومين
 
-      // إضافة 1900 أو 2000 بناءً على الجنس
-      int genderCode = int.parse(id[0]);
+      // إضافة 1900 أو 2000 بناءً على اول رقم
+      int firstNum = int.parse(id[0]);
       int fullYear =
-          (genderCode < 3) ? 1900 + int.parse(year) : 2000 + int.parse(year);
+          (firstNum < 3) ? 1900 + int.parse(year) : 2000 + int.parse(year);
 
       return '$fullYear-$month-$day'; // تنسيق للتاريخ
     } catch (e) {
@@ -57,7 +57,7 @@ class EgyptianIdParserBase {
 
   static String extractGender(String id) {
     try {
-      int genderCode = int.parse(id[0]);
+      int genderCode = int.parse(id[12]);
       return (genderCode % 2 == 0) ? 'أنثى' : 'ذكر';
     } catch (e) {
       return 'error';
