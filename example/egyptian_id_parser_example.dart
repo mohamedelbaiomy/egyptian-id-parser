@@ -8,5 +8,5 @@ void main() {
   print('Birth Date: ${id.birthDate}');
   print('Governorate: ${id.governorate}');
   print('Gender: ${id.gender}');
-  print('Age: ${id.age.years} years, ${id.age.months} months, ${id.age.days} days');
+  print('Age: ${id.age}');
 }

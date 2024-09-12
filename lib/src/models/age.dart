@@ -11,4 +11,8 @@ class Age {
     required this.months,
     required this.days,
   });
+  @override
+  String toString() {
+    return '$years years, $months months, $days days';
+  }
 }
