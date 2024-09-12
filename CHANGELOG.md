@@ -25,3 +25,9 @@
 - ## Fourth version.
 
 - **Handle Errors**
+
+## 1.0.4
+
+- ## Fifth version.
+
+- **Fix extractGender Function**
