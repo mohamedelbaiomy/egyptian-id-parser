@@ -15,9 +15,9 @@ The **Egyptian ID Parser** is a Dart package designed to extract personal inform
 
 ```
 dependencies:
-  egyptian_id_parser: ^1.0.0
+  egyptian_id_parser: ^1.0.5
 ```
-2) use the class `EgyptianIdParserBase` to access to all static built in functions :
+2) use the class `EgyptianIdParserBase` to access to all static functions :
 
 ``` 
 

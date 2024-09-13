@@ -31,3 +31,9 @@
 - ## Fifth version.
 
 - **Fix extractGender Function**
+
+## 1.0.4
+
+- ## Sixth version.
+
+- **Update Readme**
