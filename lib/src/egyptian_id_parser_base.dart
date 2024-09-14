@@ -7,8 +7,7 @@ class EgyptianIdParserBase {
 
       // إضافة 1900 أو 2000 بناءً على اول رقم
       int firstNum = int.parse(id[0]);
-      int fullYear =
-          (firstNum < 3) ? 1900 + int.parse(year) : 2000 + int.parse(year);
+      int fullYear = 1700+(firstNum*100) + int.parse(year);
 
       return '$fullYear-$month-$day'; // تنسيق للتاريخ
     } catch (e) {
