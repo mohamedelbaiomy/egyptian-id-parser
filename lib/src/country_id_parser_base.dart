@@ -3,11 +3,11 @@ import 'package:egyptian_id_parser/src/repo/repo.dart';
 
 import 'models/models.dart';
 
-class CountryIdParser {
+class EgyptianIdParser {
   final IdParser idParser = EgyptID();
   final String id;
 
-  CountryIdParser(this.id);
+  EgyptianIdParser(this.id);
 
   // Direct accessors for the ID information
   String get birthDate => idParser.extractBirthDate(id);
