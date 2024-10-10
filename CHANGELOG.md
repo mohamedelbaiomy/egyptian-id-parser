@@ -32,8 +32,14 @@
 
 - **Fix extractGender Function**
 
-## 1.0.4
+## 1.0.5
 
 - ## Sixth version.
 
 - **Update Readme**
+
+## 1.0.6
+
+- ## Seventh version.
+
+- **Make it more generic - Knowing the place of birth of Egyptians born abroad**

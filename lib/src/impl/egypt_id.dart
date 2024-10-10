@@ -1,7 +1,6 @@
 part of 'impl.dart';
 
-class EgyptID extends IdParser{
-
+class EgyptID extends IdParser {
   @override
   String extractBirthDate(String id) {
     try {
@@ -12,7 +11,7 @@ class EgyptID extends IdParser{
       // إضافة 1900 أو 2000 بناءً على الجنس
       int genderCode = int.parse(id[0]);
       int fullYear =
-      (genderCode < 3) ? 1900 + int.parse(year) : 2000 + int.parse(year);
+          (genderCode < 3) ? 1900 + int.parse(year) : 2000 + int.parse(year);
 
       return '$fullYear-$month-$day';
     } catch (e) {
@@ -62,6 +61,7 @@ class EgyptID extends IdParser{
         '33': 'مطروح',
         '34': 'شمال سيناء',
         '35': 'جنوب سيناء',
+        '88': 'خارج مصر',
       };
 
       return governorates[governorateCode] ?? 'محافظة غير معروفة';
