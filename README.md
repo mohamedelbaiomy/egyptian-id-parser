@@ -17,7 +17,7 @@ The **Egyptian ID Parser** is a Dart package designed to extract personal inform
 dependencies:
   egyptian_id_parser: ^1.0.6
 ```
-2) use the class `EgyptianIdParserBase` to access to all static functions :
+2) use the class `EgyptianIdParser` to access to all static functions :
 
 ``` 
 
@@ -25,7 +25,7 @@ import 'package:egyptian_id_parser/egyptian_id_parser.dart';
 
 void main() {
   String idNumber = "12345678901234"; // Replace with a valid ID number
-  var id = CountryIdParser(idNumber);
+  var id = EgyptianIdParser(idNumber);
 
   print('Birth Date: ${id.birthDate}');
   print('Governorate: ${id.governorate}');
