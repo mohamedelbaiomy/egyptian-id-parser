@@ -1,5 +1,20 @@
 # Egyptian ID Parser
 
+[![pub package](https://img.shields.io/pub/v/egyptian_id_parser.svg)](https://pub.dev/packages/egyptian_id_parser)
+<a href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+<a href="https://pub.dev/documentation/egyptian_id_parser/latest"><img src="https://img.shields.io/badge/dartdocs-latest-purple.svg" alt="Latest Dartdocs" /></a>
+[![Language: Dart](https://img.shields.io/badge/language-Dart-green)](https://dart.dev/)
+[![GitHub stars](https://img.shields.io/github/stars/mohamedelbaiomy/egyptian-id-parser?style=flat&color=red)](https://github.com/mohamedelbaiomy/egyptian-id-parser/stargazers)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+<!---
+[![Publisher: halildurmus.dev](https://img.shields.io/pub/publisher/egyptian_id_parser)](https://pub.dev/publishers/mohamedelbaiomy)
+--->
+
+<!---
+[![pub package](https://img.shields.io/pub/v/egyptian_id_parser.svg?label=egyptian_id_parser&color=blue)](https://pub.dartlang.org/packages/egyptian_id_parser)
+--->
+
 The **Egyptian ID Parser** is a Dart package designed to extract personal information from the Egyptian National ID number. This package enables developers to easily retrieve essential details, including date of birth, gender, and governorate, from the 14-digit national ID.
 
 ## Features
@@ -11,13 +26,14 @@ The **Egyptian ID Parser** is a Dart package designed to extract personal inform
 
 ## Usage
 
+
 1) To use the **Egyptian ID Parser** package, add it to your `pubspec.yaml` file and import it into your project.
 
 ```
 dependencies:
-  egyptian_id_parser: ^1.0.6
+  egyptian_id_parser: ^1.0.8
 ```
-2) use the class `EgyptianIdParser` to access to all static functions :
+2) create an instance of `EgyptianIdParser` with a valid ID number to access birth date, governorate, gender, and age information. :
 
 ``` 
 

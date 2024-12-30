@@ -1,5 +1,4 @@
 import 'package:egyptian_id_parser/egyptian_id_parser.dart';
-import 'package:egyptian_id_parser/src/impl/impl.dart';
 
 void main() {
   String idNumber = "12345678901234"; // Replace with a valid ID number
