@@ -6,6 +6,9 @@
 [![Language: Dart](https://img.shields.io/badge/language-Dart-green)](https://dart.dev/)
 [![GitHub stars](https://img.shields.io/github/stars/mohamedelbaiomy/egyptian-id-parser?style=flat&color=red)](https://github.com/mohamedelbaiomy/egyptian-id-parser/stargazers)
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<a href="https://pub.dev/packages/egyptian_id_parser/score"><img src="https://img.shields.io/pub/likes/egyptian_id_parser" alt="likes"></a>
+<a href="https://pub.dev/packages/egyptian_id_parser/score"><img src="https://img.shields.io/pub/popularity/egyptian_id_parser" alt="popularity"></a>
+<a href="https://pub.dev/packages/egyptian_id_parser/score"><img src="https://img.shields.io/pub/points/egyptian_id_parser" alt="pub points"></a>
 
 <!---
 [![Publisher: halildurmus.dev](https://img.shields.io/pub/publisher/egyptian_id_parser)](https://pub.dev/publishers/mohamedelbaiomy)
