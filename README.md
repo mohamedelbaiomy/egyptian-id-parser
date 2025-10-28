@@ -34,7 +34,7 @@ The **Egyptian ID Parser** is a Dart package designed to extract personal inform
 
 ```
 dependencies:
-  egyptian_id_parser: ^1.0.8
+  egyptian_id_parser: ^1.1.0
 ```
 2) create an instance of `EgyptianIdParser` with a valid ID number to access birth date, governorate, gender, and age information. :
 

@@ -55,3 +55,8 @@
 - ## Ninth version.
 
 - **Update Readme**
+
+## 1.1.0
+
+- **Enhance Documentation**: Updated the README with more comprehensive examples and clearer usage instructions.
+- **Refactor Code**: Improved internal code structure for better readability and maintenance.

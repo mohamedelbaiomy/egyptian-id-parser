@@ -1,15 +1,15 @@
 name: egyptian_id_parser
-description: A Dart package that provides functionality to extract personal information from the Egyptian National ID number. such as date of birth, gender, and governorate based on the 14-digit national ID.
-version: 1.0.8
-# repository: https://github.com/mohamedelbaiomy/egyptian-id-parser
+description: A Dart package that provides functionality to extract personal information from the Egyptian National ID number.
+version: 1.1.0
+repository: https://github.com/mohamedelbaiomy/egyptian-id-parser
 homepage: https://github.com/mohamedelbaiomy/egyptian-id-parser
 
 environment:
-  sdk: ^3.6.0
+  sdk: ^3.7.2
 
 dependencies:
   #
 
 dev_dependencies:
-  lints: ^4.0.0
-  test: ^1.24.0
+  lints: ^6.0.0
+  test: ^1.26.3
