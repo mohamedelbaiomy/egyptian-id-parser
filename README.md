@@ -11,6 +11,14 @@
 <a href="https://pub.dev/packages/egyptian_id_parser/score"><img src="https://img.shields.io/pub/points/egyptian_id_parser" alt="pub points"></a>
 
 <!---
+[![MIT License][license-badge]][license-link]
+[![PRs Welcome][prs-badge]][prs-link]
+[![Watch on GitHub][github-watch-badge]][github-watch-link]
+[![Star on GitHub][github-star-badge]][github-star-link]
+[![Watch on GitHub][github-forks-badge]][github-forks-link]
+--->
+
+<!---
 [![Publisher: halildurmus.dev](https://img.shields.io/pub/publisher/egyptian_id_parser)](https://pub.dev/publishers/mohamedelbaiomy)
 --->
 
@@ -61,3 +69,14 @@ void main() {
 * [![facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge%22%20height=%2235%22%20alt=%22facebook%20logo%22)](https://www.facebook.com/Original262003)
 
 ***
+
+[license-badge]: https://img.shields.io/github/license/mohamedelbaiomy/egyptian-id-parser.svg?style=for-the-badge
+[license-link]: https://github.com/mohamedelbaiomy/egyptian-id-parser/blob/master/LICENSE
+[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge
+[prs-link]: https://github.commohamedelbaiomy/egyptian-id-parser/issues
+[github-watch-badge]: https://img.shields.io/github/watchers/mohamedelbaiomy/egyptian-id-parser.svg?style=for-the-badge&logo=github&logoColor=ffffff
+[github-watch-link]: https://github.com/mohamedelbaiomy/egyptian-id-parser/watchers
+[github-star-badge]: https://img.shields.io/github/stars/mohamedelbaiomy/egyptian-id-parser.svg?style=for-the-badge&logo=github&logoColor=ffffff
+[github-star-link]: https://github.com/mohamedelbaiomy/egyptian-id-parser/stargazers
+[github-forks-badge]: https://img.shields.io/github/forks/mohamedelbaiomy/egyptian-id-parser.svg?style=for-the-badge&logo=github&logoColor=ffffff
+[github-forks-link]: https://github.com/mohamedelbaiomy/egyptian-id-parser/network/members
